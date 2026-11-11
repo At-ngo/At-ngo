@@ -25,7 +25,7 @@
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=At-ngo&theme=default&hide_border=false&include_all_commits=false&count_private=false&hide=prs,issues)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=At-ngo&theme=default&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=At-ngo&theme=default&hide_border=false&timezone=Asia%2FHo_Chi_Minh)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=At-ngo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
